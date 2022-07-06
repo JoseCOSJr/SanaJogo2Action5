@@ -1,0 +1,4866 @@
+fileFormatVersion: 2
+guid: a129f08ef6c5e3d438db6f4fc6ef2cf8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pooyan_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 472
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f727c32f2d72a4fbf385d89e82fb33
+      internalID: -1891753354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 472
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9022d66360a05ed4ca390767056c137f
+      internalID: 1419955951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 472
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117f17fbb9ef5fe4c92d26ed92b8c381
+      internalID: 357787971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 472
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8caa1b744a185a4d907d88cd2cdcf33
+      internalID: 945071302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 472
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee38a385d483c34587f3bcf10b80e69
+      internalID: -953059409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 472
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a81948f52728241896e3a0b2a87f14
+      internalID: -2130855082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 472
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848e05b1485310b47876f11c455fbf69
+      internalID: -2116062293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 472
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2906774f93a24bc48bce6b4799890dfb
+      internalID: 675345370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 472
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff09859b1bc9fc4f8af4633a47532a2
+      internalID: 955759569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 472
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757e4644da1f54f4289c2a69213b081a
+      internalID: -319614834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 436
+        width: 19
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c45db20a7b46f64da0b43fe87180172
+      internalID: 1872799015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 436
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8621100185a8e4c80deb8384a2d63b
+      internalID: 1074855796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 436
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785d5e7ef8618e84a8d8c317220b3420
+      internalID: -1883744812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 436
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c910129d8f44c46ae4190096ea3170
+      internalID: -115092363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 436
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c760a61b83fa68a4d93c5b76fe781991
+      internalID: 625149258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 436
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302c28b434cb14149a1f7403ae301b51
+      internalID: -1372716173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 436
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cf40470699f0042aac5db75e9cd49a
+      internalID: -1554244082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 436
+        width: 19
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dc0dbeea7ff704da5e38689f89e84d
+      internalID: 1128815674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 417
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c67b1f81add45245be38ec72a5ef1df
+      internalID: -1729257034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 417
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e1e8841b693bd4b82de143f13a16e7
+      internalID: 1403189682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 417
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50eab511e00d7643a0e1be87273ee95
+      internalID: -2100005531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 417
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460ea51d56237034888447f420b042a3
+      internalID: 234839987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 417
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dbfacab00b33b448ea58e9a94156b9
+      internalID: -121476231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 417
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa841169ab8601c4bb46ba59daceeb83
+      internalID: -2061527157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 398
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833762d6042b93b418898bde19e0d048
+      internalID: 1938458868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 398
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c773ea0baa66c84795537cba07d3156
+      internalID: 1466860532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 398
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952b224296e082549a40bd3497475467
+      internalID: -250325208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_27
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 398
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73613a9e93edc446a5477f86ead2887
+      internalID: 1121104564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_28
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 398
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367c25cfe3320764a97fc095e0bb9d9e
+      internalID: -1833545219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_29
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 398
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91ee956bbf843f4399ce16c8fea8fcf
+      internalID: 1091485690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_30
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 398
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3b06a0a061acf4585c56ca4317ec45
+      internalID: -1202645468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 398
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3465337132aed24d90b836d50568d31
+      internalID: -1575619145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_32
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 398
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc69a4200333d6149904cb2a1dbc709f
+      internalID: 1011902653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_33
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 398
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264a926f7fcfc5243805fe1a79325466
+      internalID: -1821537995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_34
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 398
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3933a5c083dc74749bc04e506e738c6d
+      internalID: 279943060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_35
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 398
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c902a82f2ec35354b9866f5f1212d7f3
+      internalID: 889856744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_36
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 398
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3956d5093848f994a981e78aeaeaa010
+      internalID: -900571960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 398
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852c47e7c35d96546b44e874eaa23578
+      internalID: -1468795276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 379
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b2219d536054740a01de14c9fcb026
+      internalID: 1789770298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 379
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13574fce5710a8488797f2a8fdd6d12
+      internalID: -1497289400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 379
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3176230746edbf43bac767d0887e1b6
+      internalID: -1870240358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_41
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 379
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c9a3213186bd34b85d7fe39d9f4526
+      internalID: -411353286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_42
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 379
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce42986341cf4644987dafa0ff2b77c
+      internalID: 832449712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_43
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 379
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74782848d8f09974c92ebcfe05fdf31e
+      internalID: 1164105802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 350
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07eb3db810b0454d896e21490ca0a25
+      internalID: -539136746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_45
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 350
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894df59338c0e0f43bf4fbf4384e96f9
+      internalID: 2060165599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_46
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 350
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66a72a0e529bea4e84b4c5bd2e2ba44
+      internalID: 1821498764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 350
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30617ff8c911aa84183dd618d8b93f96
+      internalID: -1234850453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 351
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aed14c924b33348997ddb4617cf7f1
+      internalID: 429985528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_49
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 351
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20155b691ef026541a0e600a5adc8daa
+      internalID: -533229405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_50
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 350
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0159ae62c9113de46821d66adcfb3b1a
+      internalID: 3432799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_51
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 350
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49c01b86ef14bd48965d974c4d485d6
+      internalID: -254703021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_52
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 351
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4593e31454ed334596ccdf1e1299c93
+      internalID: -24318846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_53
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 351
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c7bdcb4af82ec42910ab07f948460f
+      internalID: -432437478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_54
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 350
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2db72b5911da74a97563a9ce23e35a
+      internalID: -1987888261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 350
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc6301b433241b40b148ef489e76ffe
+      internalID: 2141890321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_56
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 350
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b107faca0aadcd54f99af94b9116bf07
+      internalID: 1021894757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_57
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 350
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7183a20a2f62ba439e4cc0272563e54
+      internalID: -1526907565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_58
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 319
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8a06ac1d4b8c54091d67e65c9f06be
+      internalID: -1079830146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_59
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 319
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff2f279e3f5b8c42830b984164278f6
+      internalID: 623547756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_60
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 319
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01630d80b0e67143aea2e801a69d7d2
+      internalID: 917712424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 319
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea3046e27a65a242adcde769830edbe
+      internalID: 1684702398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_62
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 320
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6952fffc81bba44a559e70447d5c5e
+      internalID: -1276192752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_63
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 320
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29fb8ccad11a994e982a2a734a4300e
+      internalID: 1705890265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_64
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 319
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689e23ea4a00b7047b11fd3324e23eef
+      internalID: -325373677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_65
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 319
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e42c8cd7a6118545bdb0b354691f436
+      internalID: 1392964375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_66
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 320
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92b0cb5d0a16a547ae16e4070ac4a34
+      internalID: 1113167813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_67
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 320
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23d225ebe141474c868ba696cb44fa2
+      internalID: -640430510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_68
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 319
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83274c4c824ff2a43aedccba22d67e2d
+      internalID: 117636309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_69
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 319
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdbd432fa24dd24f9328853a8357f3e
+      internalID: -1027953820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_70
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 319
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db12083cb5e54f49935336b2e582630
+      internalID: 1073174713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_71
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 319
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609ab126346c40f4ab60d67d0cec9b72
+      internalID: 1746185015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 289
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bc4800e088224408b483d15af31da5
+      internalID: -148739898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_73
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 289
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86d05494444a064d9f00e0b5195629a
+      internalID: -1015835906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_74
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 289
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a63f19349e81fa439ce978702e7bf75
+      internalID: 501928205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_75
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 289
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e73adf243bd8534993317aebf8f98e7
+      internalID: 1026953688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_76
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 290
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a6618fec7c7e14bb31063f524636c6
+      internalID: 1875251031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_77
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 290
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b73f7aabf0c4a48959edf97f15c5e0
+      internalID: 473373039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_78
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 289
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5754776dc5f30ae409a813a3d36150a2
+      internalID: 1391782968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_79
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 289
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fa0ece4ee42104083b6d7ed9a8cb07
+      internalID: -144710051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_80
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 290
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4269dde417b8945b5ace4ad9e2e18d
+      internalID: -1606266620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 290
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6e83c0dc4f4f541bcf795be37aa370
+      internalID: -2021369672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_82
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 289
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98bd6e9c0ba04c45bc54f82568b4616
+      internalID: 1957009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_83
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 289
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc1b38f914a32a49a6259add05894c3
+      internalID: 2099916411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_84
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 289
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0230e7d778b8c42806e3d3eb8354c4
+      internalID: -955058918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_85
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 289
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee6d18bf9f324d459c2c5e5291a8712
+      internalID: 586916058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_86
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 259
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78fee32b200f0042834ec51586f6119
+      internalID: -1647555606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_87
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 259
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a942f5069178a643bc03575a019b805
+      internalID: -1946026843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_88
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 259
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbed0ad90c6bc8240a7eca3101c11ffc
+      internalID: -1719468133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 259
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f95cf26f63f104f8c599f59d54e1ea
+      internalID: -1469130784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_90
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 260
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a058bf8ada2464ea4bfc5c55aed40f
+      internalID: -997796557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_91
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 260
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d293eede775a99d4f917abc51c9b5050
+      internalID: 242166180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_92
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 259
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4092644fe45ce4eb91cb20cd7a9c97
+      internalID: -1198834862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_93
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 259
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6270a2511f87b4c8a17d316eea5f90
+      internalID: 1222823719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_94
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 260
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034beab5168bca64cb2041cb3f0b41a5
+      internalID: 859160094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_95
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 260
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054d3a3bb51a3ac478d82bc85f982b7a
+      internalID: -1085293603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_96
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 259
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f78b38134e16b47a55ea51558a9ccc
+      internalID: -471310226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_97
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 259
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b240c395afec59a40a36e45bf8e3a866
+      internalID: 290863538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_98
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 259
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1b417ea85dc874183294825eb28a2b
+      internalID: 1451707367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_99
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 259
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5c4ec734d22a54e95a222eb006bd12
+      internalID: 2063204404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 228
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c39399df3697c4181f8441c6f7afca
+      internalID: -1085089339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_101
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 228
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd799549a1eb10a4d8b373f32348a043
+      internalID: -1599903378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_102
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 228
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d7343a40a9bf64e9f6a1dc69fde4ce
+      internalID: 1054969313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_103
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 228
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108a5808850e6254da1e857be42fc73d
+      internalID: 832478850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_104
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 229
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581f695f065af9f458c9ae54706a934a
+      internalID: 1192506255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_105
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 229
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9631d0eb066708f40923d97fd717431e
+      internalID: -2039785136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_106
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 228
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53ace3d5a4f2ed4f880c3a74ae4fb3b
+      internalID: -115897962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_107
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 228
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51acb95555888ce4cb9d319ed9bf963d
+      internalID: -1909429195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_108
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 229
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3893b7eb0364bc46a31771ef6ce01a3
+      internalID: 59175496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_109
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 229
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0b3c3be191b694080d628d64501581
+      internalID: -364295453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_110
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 228
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd533b53a1de0184983e991191ba854a
+      internalID: 1271085807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_111
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 228
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a938633625a4926418c7f362f623f9bf
+      internalID: 1345294562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_112
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 228
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a0b525fe0ecb943bf7a6fd53ddd206
+      internalID: -630843800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_113
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 228
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f73d076e8d1404e9052ed947a92431
+      internalID: -1674138528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_114
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 198
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52f44c8a33fb1c4eb734bde3e35b58d
+      internalID: -1394862032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_115
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 198
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bc6b606a092d640b706a5afe32f4cd
+      internalID: 553765806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_116
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 198
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9ea2e0215530b43969d4bce10865e9
+      internalID: -2142922321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_117
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 198
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f9e60934c211d498898e49161450e5
+      internalID: 74703391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_118
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 199
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f057403a40bd236408c80204b6372261
+      internalID: -567970252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_119
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 199
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0649283634429cc41942b89ad1120d35
+      internalID: -542318525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_120
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 198
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e41a30a0ae8a446816274d52cae863
+      internalID: -1948984748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_121
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 198
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7791f8127dadcb49ba734b96c330783
+      internalID: -1709818909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_122
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 199
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006449d2d64824b40992d38c8d37fe92
+      internalID: -1131383651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 199
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad83e89da01547348a389165fbc31940
+      internalID: -270227729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_124
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 198
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af292f821e8b26c4da09dbf5859e2897
+      internalID: 1881119754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_125
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 198
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653696f088898f644be93e40c73d2b02
+      internalID: -1703243234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_126
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 198
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2225abdccb136374ab853556d7c60ce5
+      internalID: 1266233881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_127
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 198
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f012732cce42e42b349e70c96eae61
+      internalID: -1794494979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_128
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f37c0ce9ad36a74f9643bafa27b6234
+      internalID: -1924018931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_129
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 180
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794fbcf469e7b4949870fc489489323d
+      internalID: -1330786023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_130
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 180
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0f0af66937e8a4a9138437ccf39d8c
+      internalID: -189097308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_131
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 180
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cccb4c7b04793a4cae35b63cfdb2cd1
+      internalID: -1994108368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_132
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 180
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da38a4f4d72a6cb4bbad5eb925bc7ac4
+      internalID: -564334527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_133
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 180
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6735b18f37ed9a4bb2484692dc33b95
+      internalID: 1522914067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_134
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 180
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d654b15f75e018945bb31e1ade6c7231
+      internalID: 716390074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_135
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 180
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e8794d879742b43a7c2aec0b84bfc0
+      internalID: 887570852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_136
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 180
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae75e7f4e351a8147bfb3c6676542bab
+      internalID: 1223907128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_137
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 180
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67846dfcdd1bfc14e8b189d7a58d0a4c
+      internalID: 1170852335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_138
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 162
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df452e6ab1e49a48805917d2b8de6a3
+      internalID: 427728734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_139
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 162
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eb1c4c44234f6429f10b7ac2b6ca55
+      internalID: -1664892110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_140
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 162
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebee5f961f5aa6c47a6e76cff90d59e0
+      internalID: 403893827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_141
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 162
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed6ca244870f7943b1d38e44f2aaae0
+      internalID: 1065390302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_142
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 162
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef44b53549877b4bb120b12e15b9089
+      internalID: 681942914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_143
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 162
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89384ef9d1bb634fbcf307128250fd2
+      internalID: -1506182975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_144
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 162
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2dba12a2858dd40b6d1f842dd32692
+      internalID: -961983883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_145
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 162
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1711dc0f6e8a1494bab126ea7142a8b2
+      internalID: -443025229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_146
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 162
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ecf63980f9fab4fbb5cf3f0592bfe7
+      internalID: 734365469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_147
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 162
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3e76bc415083a40b12786570e5869c
+      internalID: 1247172042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_148
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 144
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c29b1fba928bce40932a39bb406081f
+      internalID: -984923470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_149
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02372487c24e3c246ad541ebd20541c2
+      internalID: 273995871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_150
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c24aecd480163640b8b09796fd96e4f
+      internalID: 1183383914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_151
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f937fd7333171fc44ba7fd752cb3a8db
+      internalID: 1527279686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_152
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47adf6e53544ec24c816de18f217d59c
+      internalID: -158346700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_153
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac76b276eb7f9c46b2961522653e1cb
+      internalID: -1839457265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_154
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ac909fa38a59b41b3aba89344b6615
+      internalID: 947198730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_155
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19161fb9a280fd4ca04ac672b40e68b
+      internalID: 882442033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_156
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106d7a9d7c83f2a4b9218391e40eb49e
+      internalID: 109337931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_157
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 144
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da99ca0d81653324d82fffb86ddbbd9a
+      internalID: -1666119930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_158
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 126
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee456b17888efe4ba1cd5cbe1016bc6
+      internalID: 30773657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_159
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 126
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537e42ae0958e204a8c86a2f42f2d772
+      internalID: 1581771359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_160
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 126
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae2ad82950d1204c947b8d3bf0221d3
+      internalID: -101715161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_161
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 126
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0173032fd080977449b8cbcfe439ec74
+      internalID: -1647564665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_162
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 126
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eee151f22a1fa740b3873163d0d874b
+      internalID: -776437765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_163
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 126
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cc8a77305648b499da553f8a5aa3a6
+      internalID: 1590065111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_164
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 126
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99eb563b99384342b480e68b1c4904d
+      internalID: 412776318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_165
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 126
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b96ec0f41c8ceb418a2b7add43eb3ac
+      internalID: 1848087946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_166
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 126
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96600060df2015e4baa6921cde10c8e9
+      internalID: 1122072362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_167
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 126
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc8f3f398f7cca4abe7013a38c51cc1
+      internalID: -1822777964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_168
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 108
+        width: 26
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22fc451456842142b84386c9c9cd259
+      internalID: 1661172545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_169
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 108
+        width: 13
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1236e884afaef4b928159b5767dbd1
+      internalID: 991032909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_170
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 108
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ae8a79d371aa9408416990ca6a5f2f
+      internalID: 1378914080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_171
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 108
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6a8220d56852e4cb43451ad6e5bb86
+      internalID: 1732671430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_172
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 108
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab641595790bae4488444c906861e4a0
+      internalID: -502113901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_173
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 108
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18f229446d4a9a498919f0feb46d4f4
+      internalID: 445836864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_174
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 108
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3071cdc4c3132545809f549cc0fe86f
+      internalID: 734756019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_175
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 108
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7374822a4f652428eb9be192f6fcff
+      internalID: 806183604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_176
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 108
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eac606c2ef79c9499419ae64d56aff9
+      internalID: -1382798338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_177
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 108
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d448f9c021595cf4ab73000ca0cd1b69
+      internalID: 56189643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_178
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 108
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386f72aeacc9610418845511ba0c7f8f
+      internalID: 1965438147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_179
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 108
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da0b5d7c96b5b74aa95dc6383b95d66
+      internalID: -12012349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_180
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 108
+        width: 13
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa395d95d546164c870b681604556b5
+      internalID: 1011057048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_181
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 108
+        width: 26
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b5e8689e3442f42a2b4618482e716e
+      internalID: 1208174174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_182
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 90
+        width: 26
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3d228c12aec9449957b643782c4f33
+      internalID: 1737565196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_183
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 90
+        width: 13
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d76c2fc02f33e429218bc89b369b35
+      internalID: -523112447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_184
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 90
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba7d9251f6e62b48b12cfd812e508ab
+      internalID: -395970375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_185
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 90
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3180ac4426acb458df9d0bc7be2dab
+      internalID: -1107298226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_186
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 90
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a423d69441e5c4c87dce9e20a7e753
+      internalID: 1096665993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_187
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 90
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea916f6345c5974db8ef5a3b9c65c32
+      internalID: -1687281432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_188
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 90
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34084176a2843534b98397a442497c13
+      internalID: -605029138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_189
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 90
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10051d0f985abb4f9a7b14285550580
+      internalID: 419708555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_190
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 90
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d4f4bd45b741b47ae3d4814c633c04
+      internalID: 630488833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_191
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 90
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57742dc8ff995c04ab8fb1679e51eb8e
+      internalID: -295420939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_192
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 90
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48366746df00509448b6f8dace3e42a9
+      internalID: -805496175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_193
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 90
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702a52484044ca24681e5812d6040533
+      internalID: 1175559100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_194
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 90
+        width: 13
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1637a152c7e7f0d4c8af8dde50913ce0
+      internalID: 534751768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_195
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 90
+        width: 26
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00c611db9ec8944ab804280b5367fc8
+      internalID: -2028407939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_196
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 64
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf86c83025f9184c886f5eb025c739c
+      internalID: -689121158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_197
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 64
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ddf511ef7e8e5458a83fb001f79079
+      internalID: 1394120962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_198
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 64
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a7481c466ca164888dcddb5bbb0599
+      internalID: -939016017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_199
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 64
+        width: 5
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b540d4c13d5619b428bde56893323598
+      internalID: 791118975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_200
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 64
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fa9f70ccb32134287f771ee73889b1
+      internalID: 1770404371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_201
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 49
+        width: 11
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c663deb5d8bbde54f9df45bd1988bbcb
+      internalID: -60929493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_202
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 49
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecf9e2ee6226574d992ade9954e14ca
+      internalID: 454649440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_203
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 49
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358111a82fccbce47a3370a5b3aa617f
+      internalID: 1237444437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_204
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 49
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccfb5005ee95854f872c0d05ab37653
+      internalID: -261976141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_205
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 35
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f004b7dab2cfb4e47a534a12165b3534
+      internalID: -842717502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_206
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 35
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9537728f663e048b4fff88c51531d8
+      internalID: -50919320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_207
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 35
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcff1493f4ce72459153c88499d56a7
+      internalID: 976959684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_208
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 21
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff4b8fd2f034524bb35e55abfff715a
+      internalID: 1321251012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_209
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 21
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd449870ee453e44bab9f478d04f3154
+      internalID: 2114583117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_210
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 21
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4b60e45bb25de4f8e095f0cc0c2897
+      internalID: 1867864241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_211
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 7
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66a30503619de7409d82bfaa380478a
+      internalID: -946231267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_212
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 7
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afd1763587c49c4596c0e18e6e02d2a
+      internalID: -1519782161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pooyan_213
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 7
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d0c26bbfce2544cbe21797ffac8c1a
+      internalID: -1719362201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pooyan_20: -2100005531
+      Pooyan_156: 109337931
+      Pooyan_93: 1222823719
+      Pooyan_143: -1506182975
+      Pooyan_165: 1848087946
+      Pooyan_104: 1192506255
+      Pooyan_105: -2039785136
+      Pooyan_32: 1011902653
+      Pooyan_177: 56189643
+      Pooyan_122: -1131383651
+      Pooyan_101: -1599903378
+      Pooyan_147: 1247172042
+      Pooyan_180: 1011057048
+      Pooyan_120: -1948984748
+      Pooyan_119: -542318525
+      Pooyan_183: -523112447
+      Pooyan_127: -1794494979
+      Pooyan_153: -1839457265
+      Pooyan_56: 1021894757
+      Pooyan_168: 1661172545
+      Pooyan_8: 955759569
+      Pooyan_46: 1821498764
+      Pooyan_144: -961983883
+      Pooyan_130: -189097308
+      Pooyan_111: 1345294562
+      Pooyan_100: -1085089339
+      Pooyan_97: 290863538
+      Pooyan_123: -270227729
+      Pooyan_163: 1590065111
+      Pooyan_96: -471310226
+      Pooyan_66: 1113167813
+      Pooyan_141: 1065390302
+      Pooyan_187: -1687281432
+      Pooyan_90: -997796557
+      Pooyan_209: 2114583117
+      Pooyan_138: 427728734
+      Pooyan_17: 1128815674
+      Pooyan_170: 1378914080
+      Pooyan_137: 1170852335
+      Pooyan_134: 716390074
+      Pooyan_65: 1392964375
+      Pooyan_70: 1073174713
+      Pooyan_162: -776437765
+      Pooyan_28: -1833545219
+      Pooyan_42: 832449712
+      Pooyan_37: -1468795276
+      Pooyan_45: 2060165599
+      Pooyan_26: -250325208
+      Pooyan_23: -2061527157
+      Pooyan_60: 917712424
+      Pooyan_74: 501928205
+      Pooyan_73: -1015835906
+      Pooyan_52: -24318846
+      Pooyan_132: -564334527
+      Pooyan_166: 1122072362
+      Pooyan_211: -946231267
+      Pooyan_109: -364295453
+      Pooyan_167: -1822777964
+      Pooyan_198: -939016017
+      Pooyan_212: -1519782161
+      Pooyan_113: -1674138528
+      Pooyan_51: -254703021
+      Pooyan_22: -121476231
+      Pooyan_157: -1666119930
+      Pooyan_1: 1419955951
+      Pooyan_185: -1107298226
+      Pooyan_6: -2116062293
+      Pooyan_27: 1121104564
+      Pooyan_125: -1703243234
+      Pooyan_79: -144710051
+      Pooyan_91: 242166180
+      Pooyan_3: 945071302
+      Pooyan_204: -261976141
+      Pooyan_99: 2063204404
+      Pooyan_29: 1091485690
+      Pooyan_200: 1770404371
+      Pooyan_194: 534751768
+      Pooyan_208: 1321251012
+      Pooyan_43: 1164105802
+      Pooyan_184: -395970375
+      Pooyan_129: -1330786023
+      Pooyan_11: 1074855796
+      Pooyan_169: 991032909
+      Pooyan_92: -1198834862
+      Pooyan_135: 887570852
+      Pooyan_78: 1391782968
+      Pooyan_176: -1382798338
+      Pooyan_115: 553765806
+      Pooyan_139: -1664892110
+      Pooyan_192: -805496175
+      Pooyan_35: 889856744
+      Pooyan_206: -50919320
+      Pooyan_174: 734756019
+      Pooyan_199: 791118975
+      Pooyan_117: 74703391
+      Pooyan_75: 1026953688
+      Pooyan_54: -1987888261
+      Pooyan_36: -900571960
+      Pooyan_190: 630488833
+      Pooyan_103: 832478850
+      Pooyan_67: -640430510
+      Pooyan_191: -295420939
+      Pooyan_62: -1276192752
+      Pooyan_16: -1554244082
+      Pooyan_193: 1175559100
+      Pooyan_142: 681942914
+      Pooyan_98: 1451707367
+      Pooyan_158: 30773657
+      Pooyan_21: 234839987
+      Pooyan_13: -115092363
+      Pooyan_19: 1403189682
+      Pooyan_126: 1266233881
+      Pooyan_53: -432437478
+      Pooyan_128: -1924018931
+      Pooyan_196: -689121158
+      Pooyan_114: -1394862032
+      Pooyan_0: -1891753354
+      Pooyan_38: 1789770298
+      Pooyan_47: -1234850453
+      Pooyan_10: 1872799015
+      Pooyan_57: -1526907565
+      Pooyan_116: -2142922321
+      Pooyan_12: -1883744812
+      Pooyan_171: 1732671430
+      Pooyan_107: -1909429195
+      Pooyan_31: -1575619145
+      Pooyan_18: -1729257034
+      Pooyan_160: -101715161
+      Pooyan_94: 859160094
+      Pooyan_148: -984923470
+      Pooyan_86: -1647555606
+      Pooyan_4: -953059409
+      Pooyan_64: -325373677
+      Pooyan_5: -2130855082
+      Pooyan_59: 623547756
+      Pooyan_197: 1394120962
+      Pooyan_14: 625149258
+      Pooyan_150: 1183383914
+      Pooyan_203: 1237444437
+      Pooyan_77: 473373039
+      Pooyan_207: 976959684
+      Pooyan_189: 419708555
+      Pooyan_110: 1271085807
+      Pooyan_210: 1867864241
+      Pooyan_173: 445836864
+      Pooyan_41: -411353286
+      Pooyan_149: 273995871
+      Pooyan_15: -1372716173
+      Pooyan_84: -955058918
+      Pooyan_81: -2021369672
+      Pooyan_69: -1027953820
+      Pooyan_145: -443025229
+      Pooyan_146: 734365469
+      Pooyan_155: 882442033
+      Pooyan_30: -1202645468
+      Pooyan_40: -1870240358
+      Pooyan_164: 412776318
+      Pooyan_202: 454649440
+      Pooyan_106: -115897962
+      Pooyan_154: 947198730
+      Pooyan_124: 1881119754
+      Pooyan_34: 279943060
+      Pooyan_195: -2028407939
+      Pooyan_151: 1527279686
+      Pooyan_186: 1096665993
+      Pooyan_25: 1466860532
+      Pooyan_82: 1957009
+      Pooyan_140: 403893827
+      Pooyan_44: -539136746
+      Pooyan_178: 1965438147
+      Pooyan_24: 1938458868
+      Pooyan_121: -1709818909
+      Pooyan_179: -12012349
+      Pooyan_102: 1054969313
+      Pooyan_89: -1469130784
+      Pooyan_95: -1085293603
+      Pooyan_55: 2141890321
+      Pooyan_39: -1497289400
+      Pooyan_48: 429985528
+      Pooyan_136: 1223907128
+      Pooyan_85: 586916058
+      Pooyan_63: 1705890265
+      Pooyan_181: 1208174174
+      Pooyan_112: -630843800
+      Pooyan_68: 117636309
+      Pooyan_161: -1647564665
+      Pooyan_152: -158346700
+      Pooyan_159: 1581771359
+      Pooyan_7: 675345370
+      Pooyan_182: 1737565196
+      Pooyan_88: -1719468133
+      Pooyan_72: -148739898
+      Pooyan_213: -1719362201
+      Pooyan_33: -1821537995
+      Pooyan_188: -605029138
+      Pooyan_9: -319614834
+      Pooyan_87: -1946026843
+      Pooyan_172: -502113901
+      Pooyan_131: -1994108368
+      Pooyan_58: -1079830146
+      Pooyan_61: 1684702398
+      Pooyan_50: 3432799
+      Pooyan_118: -567970252
+      Pooyan_175: 806183604
+      Pooyan_49: -533229405
+      Pooyan_76: 1875251031
+      Pooyan_80: -1606266620
+      Pooyan_205: -842717502
+      Pooyan_83: 2099916411
+      Pooyan_108: 59175496
+      Pooyan_133: 1522914067
+      Pooyan_71: 1746185015
+      Pooyan_201: -60929493
+      Pooyan_2: 357787971
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
