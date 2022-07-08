@@ -18,6 +18,7 @@ public class enemieMove : MonoBehaviour
 
     private void OnEnable()
     {
+        velocity = 4f + 2f * Random.value;
         countRespaw = Random.value * 2f + 2f;
         triggerIsRespaw = false;
     }
@@ -34,7 +35,7 @@ public class enemieMove : MonoBehaviour
             transform.Translate(Vector3.right * velocity * Time.fixedDeltaTime);
         }
 
-        if (!triggerIsRespaw)
+        if (!triggerIsRespaw && transform.position.x <= 5f)
         {
             if (countRespaw <= 0f)
             {

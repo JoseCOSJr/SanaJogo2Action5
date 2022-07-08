@@ -10,6 +10,7 @@ public class respawEnemies : MonoBehaviour
     private float countTimeRespawEnemie = 0f;
     private int limitCharsInScreem = 3;
     private float timerCount = 100f;
+    private loadOtherScene loadOtherSceneX;
 
     // Start is called before the first frame update
     void Start()
@@ -19,6 +20,7 @@ public class respawEnemies : MonoBehaviour
             GameObject enemy = enemiesArray[i];
             respawObjt.respawObjtStatic.AddRespawList(enemy);
         }
+        loadOtherSceneX = GetComponent<loadOtherScene>();
     }
 
     // Update is called once per frame
@@ -37,7 +39,7 @@ public class respawEnemies : MonoBehaviour
             {
                 if (countTimeRespawEnemie <= 0f)
                 {
-                    countTimeRespawEnemie = 4f;
+                    countTimeRespawEnemie = 3f;
 
                     int numberRespaw = 1;
                     if (timerCount < 25f)
@@ -58,8 +60,8 @@ public class respawEnemies : MonoBehaviour
                         int id = Random.Range(0, enemiesArray.Length);
                         GameObject objt = respawObjt.respawObjtStatic.GetRespawObjt(enemiesArray[id]);
                         Vector3 posResp = Vector3.zero;
-                        posResp.x = -12f - Random.value * 6f;
-                        posResp.y = -4f;
+                        posResp.x = -12f - Random.value * 8f;
+                        posResp.y = -4.5f;
                         objt.transform.position = posResp;
                         objt.SetActive(true);
                         enemiesAtivedList.Add(objt);
@@ -74,9 +76,10 @@ public class respawEnemies : MonoBehaviour
                 }
             }
         }
-        else
+        else if(!fadeObj.fadeObjInScene.gameObject.activeInHierarchy)
         {
             //Vitória
+            loadOtherSceneX.LoadSceneHere();
         }
 
         if (enemiesAtivedList.Exists(x => !x.activeInHierarchy))

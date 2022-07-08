@@ -14,8 +14,9 @@ GameObject:
   - component: {fileID: 8098975549056158448}
   - component: {fileID: 8098975549056158449}
   - component: {fileID: 8098975549056158454}
+  - component: {fileID: 7613150880445738962}
   m_Layer: 9
-  m_Name: Ballon Talk
+  m_Name: Ballon Talk Mediun
   m_TagString: Ballons
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74,10 +75,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -109043137
+  m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 9f8357c9130553a41b422a330665135a, type: 3}
+  m_Sprite: {fileID: -1105890177, guid: 1f0e84a25d0f4d142b811b0cb857a263, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -101,18 +102,18 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.5}
+  m_Offset: {x: 0, y: 0.6666667}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.3333334, y: 1.3333334}
     newSize: {x: 2.56, y: 2.56}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1.3333334, y: 1.3333334}
   m_EdgeRadius: 0
 --- !u!50 &8098975549056158448
 Rigidbody2D:
@@ -148,6 +149,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tagDisable: 
+  pointsValue: 3
+  audioClipHit: {fileID: 0}
+  audioClipAppear: {fileID: 0}
 --- !u!114 &8098975549056158454
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -160,4 +164,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d213641fe625e7a468f7914adf5d7cb6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: {x: 0, y: 2}
+  speed: {x: 0, y: 3}
+--- !u!95 &7613150880445738962
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8098975549056158455}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8b9115d284ccfdd42be06fc9bd07676c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

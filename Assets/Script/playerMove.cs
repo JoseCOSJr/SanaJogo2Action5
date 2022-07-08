@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class playerMove : MonoBehaviour
 {
-    private Rigidbody2D rigidbody;
+    private Rigidbody2D rigidbodyX;
     private float velocity = 10f;
     public Transform transformExit;
     public GameObject objShoot;
@@ -10,7 +10,7 @@ public class playerMove : MonoBehaviour
     // Start is called before the first frame update
     void Awake()
     {
-        rigidbody = GetComponent<Rigidbody2D>();
+        rigidbodyX = GetComponent<Rigidbody2D>();
     }
 
     private void Start()
@@ -25,7 +25,7 @@ public class playerMove : MonoBehaviour
         if (moveY != 0f)
         {
             Vector3 posGo = transform.position + Vector3.up * moveY * velocity * Time.fixedDeltaTime;
-            rigidbody.MovePosition(posGo);
+            rigidbodyX.MovePosition(posGo);
         }
     }
 
@@ -40,7 +40,7 @@ public class playerMove : MonoBehaviour
             GameObject objtSht = respawObjt.respawObjtStatic.GetRespawObjt(objShoot);
             objtSht.transform.position = transformExit.position;
             objtSht.SetActive(true);
-            shootCooldown = 0.3f;
+            shootCooldown = 0.5f;
         }
     }
 }

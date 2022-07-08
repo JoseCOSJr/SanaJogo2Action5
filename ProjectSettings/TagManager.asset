@@ -42,3 +42,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Chars
+    uniqueID: 2320716195
+    locked: 0
+  - name: Ballons
+    uniqueID: 4185924159
+    locked: 0
+  - name: Clouds
+    uniqueID: 2195889831
+    locked: 0
