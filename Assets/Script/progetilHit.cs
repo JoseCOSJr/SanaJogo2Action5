@@ -5,11 +5,16 @@ public class progetilHit : MonoBehaviour
     public string tagDisable = "Ballons";
     public int pointsValue = 3;
     public AudioClip audioClipHit, audioClipAppear;
+    private bool triggerStart = false;
 
+    private void OnDisable()
+    {
+        triggerStart = true;
+    }
 
     private void OnEnable()
     {
-        if (audioClipAppear)
+        if (audioClipAppear && triggerStart)
         {
             soundsEfxRepository.instancie.GetAudioSource().PlayOneShot(audioClipAppear);
         }

@@ -5,6 +5,7 @@ public class loadOtherScene : MonoBehaviour
 {
     public string idSceneGo = "Initial Scene";
     private bool triggerLoad = false;
+    public AudioClip audioClipPlay;
 
     // Start is called before the first frame update
     void Start()
@@ -31,6 +32,10 @@ public class loadOtherScene : MonoBehaviour
         {
             fadeObj.fadeObjInScene.FadeGo(false, 1f);
             triggerLoad = true;
+            if (audioClipPlay)
+            {
+                soundsEfxRepository.instancie.GetAudioSource().PlayOneShot(audioClipPlay);
+            }
         }
     }
 }

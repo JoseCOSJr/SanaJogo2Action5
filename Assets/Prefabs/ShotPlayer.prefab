@@ -162,5 +162,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tagDisable: Ballons
   pointsValue: 1
-  audioClipHit: {fileID: 0}
-  audioClipAppear: {fileID: 0}
+  audioClipHit: {fileID: 8300000, guid: 0607250a425106d40b406ae21d973c7f, type: 3}
+  audioClipAppear: {fileID: 8300000, guid: 2650d5a0dd9099d4685446703ed5656b, type: 3}

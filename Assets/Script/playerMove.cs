@@ -7,10 +7,12 @@ public class playerMove : MonoBehaviour
     public Transform transformExit;
     public GameObject objShoot;
     private float shootCooldown = 0f;
+    private AudioSource audioSourceMove;
     // Start is called before the first frame update
     void Awake()
     {
         rigidbodyX = GetComponent<Rigidbody2D>();
+        audioSourceMove = GetComponent<AudioSource>();
     }
 
     private void Start()
@@ -26,6 +28,14 @@ public class playerMove : MonoBehaviour
         {
             Vector3 posGo = transform.position + Vector3.up * moveY * velocity * Time.fixedDeltaTime;
             rigidbodyX.MovePosition(posGo);
+            if (!audioSourceMove.isPlaying)
+            {
+                audioSourceMove.Play();
+            }
+        }
+        else if(audioSourceMove.isPlaying)
+        {
+            audioSourceMove.Stop();
         }
     }
 
