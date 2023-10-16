@@ -9,7 +9,7 @@ public class respawEnemies : MonoBehaviour
     private List<GameObject> enemiesAtivedList= new List<GameObject> ();
     private float countTimeRespawEnemie = 0f;
     private int limitCharsInScreem = 3;
-    private float timerCount = 100f;
+    private float timerCount = 60f;
     private loadOtherScene loadOtherSceneX;
 
     // Start is called before the first frame update
