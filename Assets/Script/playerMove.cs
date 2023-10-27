@@ -8,11 +8,13 @@ public class playerMove : MonoBehaviour
     public GameObject objShoot;
     private float shootCooldown = 0f;
     private AudioSource audioSourceMove;
+    private Animator animator;
     // Start is called before the first frame update
     void Awake()
     {
         rigidbodyX = GetComponent<Rigidbody2D>();
         audioSourceMove = GetComponent<AudioSource>();
+        animator = GetComponentInChildren<Animator>();
     }
 
     private void Start()
@@ -47,10 +49,15 @@ public class playerMove : MonoBehaviour
         }
         else if (Input.GetButtonDown("Fire1"))
         {
-            GameObject objtSht = respawObjt.respawObjtStatic.GetRespawObjt(objShoot);
-            objtSht.transform.position = transformExit.position;
-            objtSht.SetActive(true);
-            shootCooldown = 0.5f;
+            animator.SetTrigger("Shoot");
         }
+    }
+
+    public void ToShooting()
+    {
+        GameObject objtSht = respawObjt.respawObjtStatic.GetRespawObjt(objShoot);
+        objtSht.transform.position = transformExit.position;
+        objtSht.SetActive(true);
+        shootCooldown = 0.5f;
     }
 }

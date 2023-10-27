@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Protragonista Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7e47616143091574fa04e2f3caa31bd9, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: df36df800e11128439267e2315ab50b6, type: 3}
+  - {fileID: 21300000, guid: 8cb5e4909e052e641943c46f9cc6a637, type: 3}
+  - {fileID: 21300000, guid: 84406531ebcac9c4ba06595b031f6c2a, type: 3}
+  - {fileID: 21300000, guid: 5929cc545782d174fbb65dc14ac673a1, type: 3}
+  - {fileID: 21300000, guid: 928951860339d9f489a43bb63ceb73a5, type: 3}
+  - {fileID: 21300000, guid: 97cd14575e020df49b6765bae8f7e4fd, type: 3}
+  - {fileID: 21300000, guid: c7863a0a3fc3c95418aff6b3f21afddc, type: 3}
+  - {fileID: 21300000, guid: 890ea85cfcf88e643aca4af4e78aff4b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - atirando1
+  - andaime
+  - 4_normal
+  - 3_normal
+  - atirando2
+  - cordas
+  - 2_normal
+  - 1_normal
+  m_RenderDataMap: {}
+  m_Tag: Protragonista Sprite Atlas
+  m_IsVariant: 0
