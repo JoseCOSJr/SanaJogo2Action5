@@ -4,6 +4,9 @@ public class moveAutomatic : MonoBehaviour
 {
     public Vector2 speed = Vector2.zero;
     private Rigidbody2D rigidbodyX;
+    [SerializeField]
+    private bool enemyProgetil = true;
+
     // Start is called before the first frame update
     void Awake()
     {
@@ -13,9 +16,16 @@ public class moveAutomatic : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (rigidbodyX.velocity != speed)
+        Vector2 speedGo = speed;
+
+        if (enemyProgetil)
+            speedGo *= enemieMove.speedShoot;
+            
+        
+
+        if (rigidbodyX.velocity != speedGo)
         {
-            rigidbodyX.velocity = speed;
+            rigidbodyX.velocity = speedGo;
         }
     }
 }

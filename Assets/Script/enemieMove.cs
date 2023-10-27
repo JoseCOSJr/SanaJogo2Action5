@@ -2,13 +2,14 @@ using UnityEngine;
 
 public class enemieMove : MonoBehaviour
 {
+    public static float speedShoot = 1f;
     private float velocity = 5f;
     private float countRespaw = 0f;
     public GameObject respawTalk;
     public Transform posRespaw;
     private bool triggerIsRespaw = false;
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         if (respawObjt.respawObjtStatic.ExistThisObjt(respawTalk))
         {

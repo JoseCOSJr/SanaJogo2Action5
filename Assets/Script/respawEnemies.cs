@@ -9,12 +9,14 @@ public class respawEnemies : MonoBehaviour
     private List<GameObject> enemiesAtivedList= new List<GameObject> ();
     private float countTimeRespawEnemie = 0f;
     private int limitCharsInScreem = 3;
-    private float timerCount = 60f;
+    private float timerCount = 80f;
     private loadOtherScene loadOtherSceneX;
 
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
+        enemieMove.speedShoot = 1f;
+
         for (int i = 0; i < enemiesArray.Length; i++)
         {
             GameObject enemy = enemiesArray[i];
@@ -42,26 +44,29 @@ public class respawEnemies : MonoBehaviour
                     countTimeRespawEnemie = 3f;
 
                     int numberRespaw = 1;
-                    if (timerCount < 25f)
+                    if (timerCount < 20f)
                     {
                         numberRespaw = 4;
+                        enemieMove.speedShoot = 3f;
                     }
-                    else if (timerCount < 50f)
+                    else if (timerCount < 40f)
                     {
                         numberRespaw = 3;
+                        enemieMove.speedShoot = 2f;
                     }
-                    else if (timerCount < 75f)
+                    else if (timerCount < 60f)
                     {
                         numberRespaw = 2;
+                        enemieMove.speedShoot = 1.5f;
                     }
 
-                    for(int i=0; i < numberRespaw; i++)
+                    for (int i=0; i < numberRespaw; i++)
                     {
                         int id = Random.Range(0, enemiesArray.Length);
                         GameObject objt = respawObjt.respawObjtStatic.GetRespawObjt(enemiesArray[id]);
                         Vector3 posResp = Vector3.zero;
                         posResp.x = -12f - Random.value * 8f;
-                        posResp.y = -4.5f;
+                        posResp.y = -5f;
                         objt.transform.position = posResp;
                         objt.SetActive(true);
                         enemiesAtivedList.Add(objt);
@@ -71,7 +76,7 @@ public class respawEnemies : MonoBehaviour
                 }
                 else
                 {
-                    float mult = 200f / (timerCount + 100f);
+                    float mult = 80f / (timerCount + 80f);
                     countTimeRespawEnemie -= Time.fixedDeltaTime * mult;
                 }
             }
