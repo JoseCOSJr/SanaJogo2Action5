@@ -6,6 +6,8 @@ public class progetilHit : MonoBehaviour
     public int pointsValue = 3;
     public AudioClip audioClipHit, audioClipAppear;
     private bool triggerStart = false;
+    [SerializeField]
+    private Animator animator = null;
 
     private void OnDisable()
     {
@@ -33,8 +35,19 @@ public class progetilHit : MonoBehaviour
                 }
             }
 
-            gameObject.SetActive(false);
+            if (animator)
+            {
+                animator.SetTrigger("Hit");
+                return;
+            }
+
+            DisableFunction();
         }
+    }
+
+    public void DisableFunction()
+    {
+        gameObject.SetActive(false);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -44,11 +57,19 @@ public class progetilHit : MonoBehaviour
             if (collision.CompareTag(tagDisable))
             {
                 collision.gameObject.SetActive(false);
-                gameObject.SetActive(false);
+                
                 if (audioClipHit)
                 {
                     soundsEfxRepository.instancie.GetAudioSource().PlayOneShot(audioClipHit);
                 }
+
+                if (animator)
+                {
+                    animator.SetTrigger("Hit");
+                    return;
+                }
+
+                DisableFunction();
             }
         }
     }

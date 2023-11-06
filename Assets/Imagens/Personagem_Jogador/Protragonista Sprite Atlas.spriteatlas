@@ -52,21 +52,39 @@ SpriteAtlas:
   m_PackedSprites:
   - {fileID: 21300000, guid: df36df800e11128439267e2315ab50b6, type: 3}
   - {fileID: 21300000, guid: 8cb5e4909e052e641943c46f9cc6a637, type: 3}
+  - {fileID: 21300000, guid: 9f86b8d0e2bb32b48b441b72c8b3f51d, type: 3}
   - {fileID: 21300000, guid: 84406531ebcac9c4ba06595b031f6c2a, type: 3}
   - {fileID: 21300000, guid: 5929cc545782d174fbb65dc14ac673a1, type: 3}
+  - {fileID: 21300000, guid: 5e1687842fb63cc46b5696bc0a965181, type: 3}
+  - {fileID: 21300000, guid: 216e7ae4663a1f346b0e28c24558f150, type: 3}
+  - {fileID: 21300000, guid: 5d361e65a407ed145bae8c71a99f464d, type: 3}
+  - {fileID: 21300000, guid: 5d7c87063a5a310448dd7f0f3c6c969e, type: 3}
+  - {fileID: 21300000, guid: 42c05566ddc71034c9bbe4cd485a76e6, type: 3}
   - {fileID: 21300000, guid: 928951860339d9f489a43bb63ceb73a5, type: 3}
   - {fileID: 21300000, guid: 97cd14575e020df49b6765bae8f7e4fd, type: 3}
+  - {fileID: 21300000, guid: bce0feb8579cabe41b6fbaa317423131, type: 3}
   - {fileID: 21300000, guid: c7863a0a3fc3c95418aff6b3f21afddc, type: 3}
+  - {fileID: 21300000, guid: da98881b2c8619d4ba517b3736e00f85, type: 3}
   - {fileID: 21300000, guid: 890ea85cfcf88e643aca4af4e78aff4b, type: 3}
+  - {fileID: 21300000, guid: ba2a670d3f32c7744a98bec4622e244a, type: 3}
   m_PackedSpriteNamesToIndex:
   - atirando1
   - andaime
+  - agua4
   - 4_normal
   - 3_normal
+  - agua7
+  - agua8
+  - agua1
+  - agua9
+  - agua2
   - atirando2
   - cordas
+  - agua6
   - 2_normal
+  - agua5
   - 1_normal
+  - agua3
   m_RenderDataMap: {}
   m_Tag: Protragonista Sprite Atlas
   m_IsVariant: 0
