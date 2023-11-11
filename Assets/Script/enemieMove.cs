@@ -3,11 +3,17 @@ using UnityEngine;
 public class enemieMove : MonoBehaviour
 {
     public static float speedShoot = 1f;
-    private float velocity = 5f;
-    private float countRespaw = 0f;
+    [SerializeField]
+    private float velocity = 3f;
+    private float countRespawTime;
+    private int coutRespawBallons;
+    [SerializeField]
+    [Min(1)]
+    private int ballowsCanRespaw = 2;
     public GameObject respawTalk;
     public Transform posRespaw;
-    private bool triggerIsRespaw = false;
+    
+    private int countrespaw;
     // Start is called before the first frame update
     void Awake()
     {
@@ -19,9 +25,8 @@ public class enemieMove : MonoBehaviour
 
     private void OnEnable()
     {
-        velocity = 4f + 2f * Random.value;
-        countRespaw = Random.value * 1f + 1f;
-        triggerIsRespaw = false;
+        countRespawTime = Random.value * 1f + 1f;
+        coutRespawBallons = 0;
     }
 
     // Update is called once per frame
@@ -36,18 +41,19 @@ public class enemieMove : MonoBehaviour
             transform.Translate(Vector3.right * velocity * Time.fixedDeltaTime);
         }
 
-        if (!triggerIsRespaw && transform.position.x <= 5f && transform.position.x >= -10)
+        if (coutRespawBallons < ballowsCanRespaw && transform.position.x <= 5f && transform.position.x >= -10)
         {
-            if (countRespaw <= 0f)
+            if (countRespawTime <= 0f)
             {
-                triggerIsRespaw = true;
+                coutRespawBallons++;
+                countRespawTime = Random.value * 1f + 1f;
                 GameObject objt = respawObjt.respawObjtStatic.GetRespawObjt(respawTalk);
                 objt.SetActive(true);
                 objt.transform.position = posRespaw.transform.position;
             }
             else
             {
-                countRespaw -= Time.fixedDeltaTime;
+                countRespawTime -= Time.fixedDeltaTime;
             }
         }
     }

@@ -153,6 +153,7 @@ MonoBehaviour:
   pointsValue: 3
   audioClipHit: {fileID: 0}
   audioClipAppear: {fileID: 8300000, guid: d2d3f38b58797b94e8f4d6f6d45bbd78, type: 3}
+  animator: {fileID: 0}
 --- !u!114 &8098975549056158454
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -165,7 +166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d213641fe625e7a468f7914adf5d7cb6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: {x: 0, y: 2}
+  speed: {x: 0, y: 1.5}
   enemyProgetil: 1
 --- !u!95 &7613150880445738962
 Animator:

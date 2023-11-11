@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Azul Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7faa83c0827b1d84b922cf9b54aadb9e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 88147d55718b4c040b81f93de27b7141, type: 3}
+  - {fileID: 21300000, guid: 9fc6dcd5f042c034080a34979eb4ab39, type: 3}
+  - {fileID: 21300000, guid: e930b0b71821b7243b0af210a94c0046, type: 3}
+  - {fileID: 21300000, guid: 4196e219b76f3ae41b83aa1a7968c8df, type: 3}
+  - {fileID: 21300000, guid: 71a7334a5f68c704990a98e67c367602, type: 3}
+  - {fileID: 21300000, guid: 8e4acc4a7eb1d65488fa8cdefa316455, type: 3}
+  - {fileID: 21300000, guid: cbc05d1bb6ff8594dad872b745038cb0, type: 3}
+  - {fileID: 21300000, guid: b5be74cb704984f4bb9c167410bfaa16, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 4azul
+  - 2azul
+  - 1azul
+  - 5azul
+  - 3azul
+  - 6azul
+  - 8azul
+  - 7azul
+  m_RenderDataMap: {}
+  m_Tag: Azul Sprite Atlas
+  m_IsVariant: 0

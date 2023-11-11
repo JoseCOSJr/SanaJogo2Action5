@@ -7,10 +7,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1202703290265753840, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1202703290265753840, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4357564197311215072, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
+      propertyPath: velocity
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4357564197311215072, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: respawTalk
       value: 
-      objectReference: {fileID: 8265582453734630794, guid: 5127713794002134294d2d5853326fdf, type: 3}
+      objectReference: {fileID: 4112372912677524414, guid: 75aa2a4913bd94342a6771abe9195ba2, type: 3}
+    - target: {fileID: 4357564197311215072, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
+      propertyPath: ballowsCanRespaw
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 4357564197311215073, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: m_Name
       value: Enemie 2 Variant
@@ -62,7 +78,7 @@ PrefabInstance:
     - target: {fileID: 4357564197311215102, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 2057521128, guid: e3e525528a60e3d4fbdadb8b0a589b2a, type: 3}
+      objectReference: {fileID: 21300000, guid: e930b0b71821b7243b0af210a94c0046, type: 3}
     - target: {fileID: 4357564197311215103, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: m_Controller
       value: 

@@ -47,17 +47,14 @@ public class respawEnemies : MonoBehaviour
                     if (timerCount < 20f)
                     {
                         numberRespaw = 4;
-                        enemieMove.speedShoot = 3f;
                     }
                     else if (timerCount < 40f)
                     {
                         numberRespaw = 3;
-                        enemieMove.speedShoot = 2f;
                     }
                     else if (timerCount < 60f)
                     {
                         numberRespaw = 2;
-                        enemieMove.speedShoot = 1.5f;
                     }
 
                     for (int i=0; i < numberRespaw; i++)

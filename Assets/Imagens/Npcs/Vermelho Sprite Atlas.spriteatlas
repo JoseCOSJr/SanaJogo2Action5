@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Vermelho Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: fa4d98d20955e7745a9f85cd48560bc6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fd34a27323e0b614aa7674093e9f72eb, type: 3}
+  - {fileID: 21300000, guid: dcb721a3798a60542a693157dbd461e7, type: 3}
+  - {fileID: 21300000, guid: 791d17f33f634da468f5652cf9933519, type: 3}
+  - {fileID: 21300000, guid: ee56cd447218b7b47a811a5fdff576ae, type: 3}
+  - {fileID: 21300000, guid: 10e3a2e48b6c5f04ab0f300e28226d34, type: 3}
+  - {fileID: 21300000, guid: 790286b5561793749a63b80b15ba2930, type: 3}
+  - {fileID: 21300000, guid: 784379fa4820e074ab1b2a4cb62c832a, type: 3}
+  - {fileID: 21300000, guid: d3c4c7ce8a4bf7f46bbea66d4ee0c0e4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 4vermelha
+  - 8vermelha
+  - 6vermelha
+  - 3vermelha
+  - 5vermelha
+  - 7vermelha
+  - 1vermelha
+  - 2vermelha
+  m_RenderDataMap: {}
+  m_Tag: Vermelho Sprite Atlas
+  m_IsVariant: 0

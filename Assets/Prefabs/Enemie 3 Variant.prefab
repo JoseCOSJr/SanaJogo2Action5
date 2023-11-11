@@ -8,9 +8,17 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 4357564197311215072, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
+      propertyPath: velocity
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4357564197311215072, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: respawTalk
       value: 
-      objectReference: {fileID: 3264929306228814636, guid: cde0d9bf6ea44a24eb41fde04cc3a666, type: 3}
+      objectReference: {fileID: 8098975549056158455, guid: 5909d47ea68ee1a469c91919478f2e74, type: 3}
+    - target: {fileID: 4357564197311215072, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
+      propertyPath: ballowsCanRespaw
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4357564197311215073, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: m_Name
       value: Enemie 3 Variant
