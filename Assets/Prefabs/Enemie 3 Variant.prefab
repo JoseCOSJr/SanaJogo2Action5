@@ -7,17 +7,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1202703290265753840, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.5
+      objectReference: {fileID: 0}
     - target: {fileID: 4357564197311215072, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: velocity
-      value: 4
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4357564197311215072, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: respawTalk
       value: 
-      objectReference: {fileID: 8098975549056158455, guid: 5909d47ea68ee1a469c91919478f2e74, type: 3}
+      objectReference: {fileID: 4112372912677524414, guid: 75aa2a4913bd94342a6771abe9195ba2, type: 3}
     - target: {fileID: 4357564197311215072, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: ballowsCanRespaw
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4357564197311215073, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: m_Name
@@ -70,7 +74,7 @@ PrefabInstance:
     - target: {fileID: 4357564197311215102, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 233861516, guid: e3e525528a60e3d4fbdadb8b0a589b2a, type: 3}
+      objectReference: {fileID: 21300000, guid: 41413f96734d1e443bacf22479833920, type: 3}
     - target: {fileID: 4357564197311215103, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: m_Controller
       value: 

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rosa Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7c835f4481cbeca428c908ca282c1d05, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5870e283e104a9b499989ddd06208252, type: 3}
+  - {fileID: 21300000, guid: a0de5165e3c6a484ab2c53b3cc72364a, type: 3}
+  - {fileID: 21300000, guid: 7c68a316d5af4b8489bc08cb34b81a82, type: 3}
+  - {fileID: 21300000, guid: a0566e96fba7ce34d82ede0e6c54debb, type: 3}
+  - {fileID: 21300000, guid: 4cfd876a073179943b9dba27758e9cc5, type: 3}
+  - {fileID: 21300000, guid: 29d1058a2c566cc44a0da14d72345e8c, type: 3}
+  - {fileID: 21300000, guid: 33ed722d0949670439661dc34d3e829d, type: 3}
+  - {fileID: 21300000, guid: b398de5f1518dbd42a39c3192b6c4c42, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 3rosa
+  - 8rosa
+  - 1rosa
+  - 6rosa
+  - 4rosa
+  - 7rosa
+  - 5rosa
+  - 2rosa
+  m_RenderDataMap: {}
+  m_Tag: Rosa Sprite Atlas
+  m_IsVariant: 0

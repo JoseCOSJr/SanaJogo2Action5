@@ -9,15 +9,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4357564197311215072, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: velocity
-      value: 5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4357564197311215072, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: respawTalk
       value: 
-      objectReference: {fileID: 8265582453734630794, guid: 5127713794002134294d2d5853326fdf, type: 3}
+      objectReference: {fileID: 8098975549056158455, guid: 5909d47ea68ee1a469c91919478f2e74, type: 3}
     - target: {fileID: 4357564197311215072, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: ballowsCanRespaw
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4357564197311215073, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: m_Name
@@ -70,7 +70,7 @@ PrefabInstance:
     - target: {fileID: 4357564197311215102, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -1825288619, guid: e3e525528a60e3d4fbdadb8b0a589b2a, type: 3}
+      objectReference: {fileID: 21300000, guid: 7c68a316d5af4b8489bc08cb34b81a82, type: 3}
     - target: {fileID: 4357564197311215103, guid: 79c6a81f55b5f63499ad2051b5f6ce46, type: 3}
       propertyPath: m_Controller
       value: 

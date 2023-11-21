@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Verde Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: de018e3d787459646ad2ce954185fff7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 043b91c0e2316344f9b4e65a74665661, type: 3}
+  - {fileID: 21300000, guid: 25b1b551ed258424698b2767bf9b02fd, type: 3}
+  - {fileID: 21300000, guid: da7b5bc4c7fcb2742acad99359ad785e, type: 3}
+  - {fileID: 21300000, guid: 4bd1d8e558dadc04fb5036735027a025, type: 3}
+  - {fileID: 21300000, guid: bb3d5917a569491498429557f8028833, type: 3}
+  - {fileID: 21300000, guid: 69e624c9dce80a04895eb31c6602c5dd, type: 3}
+  - {fileID: 21300000, guid: 55b291cabc0067f4c8a5d0f4769a04ba, type: 3}
+  - {fileID: 21300000, guid: 3b3fea2e78ecc904db9376f30e0c6c99, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 6verde
+  - 1verde
+  - 5verde
+  - 4verde
+  - 3verde
+  - 7verde
+  - 8verde
+  - 2verde
+  m_RenderDataMap: {}
+  m_Tag: Verde Sprite Atlas
+  m_IsVariant: 0

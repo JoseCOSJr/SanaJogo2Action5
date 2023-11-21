@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Morte Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 17729fd155b7c6a4fb1bb5c22d6850c6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ea6c74a1199a3d143829dd4c2ce46133, type: 3}
+  - {fileID: 21300000, guid: d1fba6520e7fcb44dbfb9192bb4458b9, type: 3}
+  - {fileID: 21300000, guid: 658969c3095a4d9448a17ab3599cf681, type: 3}
+  - {fileID: 21300000, guid: e7fb87545790f4d45900468b084b5957, type: 3}
+  - {fileID: 21300000, guid: 958198858e6e0f64a9f1d6e0086fc734, type: 3}
+  - {fileID: 21300000, guid: 764c1c67f8e63e04b889da9925661cce, type: 3}
+  - {fileID: 21300000, guid: c0bb3fdc5ef08c74893aad8a8f888507, type: 3}
+  - {fileID: 21300000, guid: 54a0504ef1e54b04283c4354f8b2b397, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 5morte
+  - 4morte
+  - 3morte
+  - 7morte
+  - 2morte
+  - 1morte
+  - 6morte
+  - 8morte
+  m_RenderDataMap: {}
+  m_Tag: Morte Sprite Atlas
+  m_IsVariant: 0

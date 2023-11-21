@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Laranja Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 80a05f8c9079fb34e80e453ecf9a4a23, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 41413f96734d1e443bacf22479833920, type: 3}
+  - {fileID: 21300000, guid: 0c8c0618bec92c348be8f0a513126c00, type: 3}
+  - {fileID: 21300000, guid: 4a96cf69494c66548bc6b0c679152db5, type: 3}
+  - {fileID: 21300000, guid: 4bae40992e8b5de4d83bd699157112e1, type: 3}
+  - {fileID: 21300000, guid: 5be890aa4496c2049977e06ff700e3f9, type: 3}
+  - {fileID: 21300000, guid: 222db22c1abd6974c8156c15eef56867, type: 3}
+  - {fileID: 21300000, guid: 30c44b9f7644a93428b16f7cdaf71089, type: 3}
+  - {fileID: 21300000, guid: daf5c7bf6eaf45c47b520db7c5e65bcc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 1laranja
+  - 4laranja
+  - 3laranja
+  - 5laranja
+  - 2laranja
+  - 6laranja
+  - 7laranja
+  - 8laranja
+  m_RenderDataMap: {}
+  m_Tag: Laranja Sprite Atlas
+  m_IsVariant: 0
