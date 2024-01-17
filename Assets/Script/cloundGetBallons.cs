@@ -5,7 +5,7 @@ public class cloundGetBallons : MonoBehaviour
 {
     public Vector3 posF = new Vector3(0f, 0f, 0f);
     private Vector3 pos0, posAuxI, posAuxF;
-    private int maxBallons = 24;
+    private int maxBallons = 36;
     private int countBallonsPoints = 0;
     private float timeMove = 0f;
     private loadOtherScene loadOtherSceneX;
